@@ -1,0 +1,17 @@
+C:\Users\kaiqu\Documents\Projects\Training\ThirdPartyAPI\GiphyServiceAPI\bin\Debug\netcoreapp2.1\GiphyServiceAPI.deps.json
+C:\Users\kaiqu\Documents\Projects\Training\ThirdPartyAPI\GiphyServiceAPI\bin\Debug\netcoreapp2.1\GiphyServiceAPI.runtimeconfig.json
+C:\Users\kaiqu\Documents\Projects\Training\ThirdPartyAPI\GiphyServiceAPI\bin\Debug\netcoreapp2.1\GiphyServiceAPI.runtimeconfig.dev.json
+C:\Users\kaiqu\Documents\Projects\Training\ThirdPartyAPI\GiphyServiceAPI\bin\Debug\netcoreapp2.1\GiphyServiceAPI.dll
+C:\Users\kaiqu\Documents\Projects\Training\ThirdPartyAPI\GiphyServiceAPI\bin\Debug\netcoreapp2.1\GiphyServiceAPI.pdb
+C:\Users\kaiqu\Documents\Projects\Training\ThirdPartyAPI\GiphyServiceAPI\obj\Debug\netcoreapp2.1\GiphyServiceAPI.csprojAssemblyReference.cache
+C:\Users\kaiqu\Documents\Projects\Training\ThirdPartyAPI\GiphyServiceAPI\obj\Debug\netcoreapp2.1\GiphyServiceAPI.csproj.CoreCompileInputs.cache
+C:\Users\kaiqu\Documents\Projects\Training\ThirdPartyAPI\GiphyServiceAPI\obj\Debug\netcoreapp2.1\GiphyServiceAPI.RazorAssemblyInfo.cache
+C:\Users\kaiqu\Documents\Projects\Training\ThirdPartyAPI\GiphyServiceAPI\obj\Debug\netcoreapp2.1\GiphyServiceAPI.RazorAssemblyInfo.cs
+C:\Users\kaiqu\Documents\Projects\Training\ThirdPartyAPI\GiphyServiceAPI\obj\Debug\netcoreapp2.1\GiphyServiceAPI.AssemblyInfoInputs.cache
+C:\Users\kaiqu\Documents\Projects\Training\ThirdPartyAPI\GiphyServiceAPI\obj\Debug\netcoreapp2.1\GiphyServiceAPI.AssemblyInfo.cs
+C:\Users\kaiqu\Documents\Projects\Training\ThirdPartyAPI\GiphyServiceAPI\obj\Debug\netcoreapp2.1\GiphyServiceAPI.RazorTargetAssemblyInfo.cache
+C:\Users\kaiqu\Documents\Projects\Training\ThirdPartyAPI\GiphyServiceAPI\obj\Debug\netcoreapp2.1\GiphyServiceAPI.csproj.CopyComplete
+C:\Users\kaiqu\Documents\Projects\Training\ThirdPartyAPI\GiphyServiceAPI\obj\Debug\netcoreapp2.1\GiphyServiceAPI.dll
+C:\Users\kaiqu\Documents\Projects\Training\ThirdPartyAPI\GiphyServiceAPI\obj\Debug\netcoreapp2.1\GiphyServiceAPI.pdb
+C:\Users\kaiqu\Documents\Projects\Training\ThirdPartyAPI\GiphyServiceAPI\bin\Debug\netcoreapp2.1\GiphyService.Libs.dll
+C:\Users\kaiqu\Documents\Projects\Training\ThirdPartyAPI\GiphyServiceAPI\bin\Debug\netcoreapp2.1\GiphyService.Libs.pdb

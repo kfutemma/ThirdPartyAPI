@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kaiqu\\Documents\\Projects\\Training\\ThirdPartyAPI\\GiphyServiceAPI\\GiphyServiceAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kaiqu\\Documents\\Projects\\Training\\ThirdPartyAPI\\Giphy.Libs\\GiphyService.Libs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kaiqu\\Documents\\Projects\\Training\\ThirdPartyAPI\\Giphy.Libs\\GiphyService.Libs.csproj",
+        "projectName": "GiphyService.Libs",
+        "projectPath": "C:\\Users\\kaiqu\\Documents\\Projects\\Training\\ThirdPartyAPI\\Giphy.Libs\\GiphyService.Libs.csproj",
+        "packagesPath": "C:\\Users\\kaiqu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kaiqu\\Documents\\Projects\\Training\\ThirdPartyAPI\\Giphy.Libs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kaiqu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\kaiqu\\Documents\\Projects\\Training\\ThirdPartyAPI\\GiphyServiceAPI\\GiphyServiceAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kaiqu\\Documents\\Projects\\Training\\ThirdPartyAPI\\GiphyServiceAPI\\GiphyServiceAPI.csproj",
+        "projectName": "GiphyServiceAPI",
+        "projectPath": "C:\\Users\\kaiqu\\Documents\\Projects\\Training\\ThirdPartyAPI\\GiphyServiceAPI\\GiphyServiceAPI.csproj",
+        "packagesPath": "C:\\Users\\kaiqu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kaiqu\\Documents\\Projects\\Training\\ThirdPartyAPI\\GiphyServiceAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kaiqu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\kaiqu\\Documents\\Projects\\Training\\ThirdPartyAPI\\Giphy.Libs\\GiphyService.Libs.csproj": {
+                "projectPath": "C:\\Users\\kaiqu\\Documents\\Projects\\Training\\ThirdPartyAPI\\Giphy.Libs\\GiphyService.Libs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
